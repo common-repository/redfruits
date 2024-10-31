@@ -1,0 +1,35 @@
+<?php
+/**
+ * Includes all the clases for RedFruits` GUI
+ */
+require_once('ADLabeledField.class.php');
+require_once('ADLabel.class.php');
+require_once('ADTextField.class.php');
+require_once('ADPasswordField.class.php');
+require_once('ADTextArea.class.php');
+require_once('ADHiddenField.class.php');
+require_once('ADCheckBox.class.php');
+require_once('ADRadio.class.php');
+require_once('ADSubmit.class.php');
+require_once('ADTitle1.class.php');
+require_once('ADTitle2.class.php');
+require_once('ADTitle3.class.php');
+require_once('ADTitle4.class.php');
+require_once('ADLayer.class.php');
+require_once('ADParagraph.class.php');
+require_once('ADLink.class.php');
+require_once('ADImage.class.php');
+require_once('ADImageField.class.php');
+require_once('ADSpan.class.php');
+require_once('ADText.class.php');
+require_once('ADUList.class.php');
+require_once('ADTable.class.php');
+require_once('ADForm.class.php');
+require_once('ADSelectField.class.php');
+require_once('ADFieldset.class.php');
+require_once('ADButton.class.php');
+require_once('ADPage.class.php');
+require_once('ADJavaScript.class.php');
+require_once('ADBreakLine.class.php');
+require_once('ADFileField.class.php');
+?>
